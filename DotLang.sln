@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotLang", "src\DotLang\DotLang.csproj", "{F8CCE5BB-34BD-5B64-A21C-47A4DFD724F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotLang.Console", "src\DotLang.Console\DotLang.Console.csproj", "{2B2757B1-7AB1-5DDC-A9FC-6C143FDAE184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotLang.Tests", "src\DotLang.Tests\DotLang.Tests.csproj", "{5C16E624-A8A3-59A1-A06A-05171D1A0DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8CCE5BB-34BD-5B64-A21C-47A4DFD724F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CCE5BB-34BD-5B64-A21C-47A4DFD724F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CCE5BB-34BD-5B64-A21C-47A4DFD724F9}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CCE5BB-34BD-5B64-A21C-47A4DFD724F9}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{2B2757B1-7AB1-5DDC-A9FC-6C143FDAE184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2757B1-7AB1-5DDC-A9FC-6C143FDAE184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2757B1-7AB1-5DDC-A9FC-6C143FDAE184}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2757B1-7AB1-5DDC-A9FC-6C143FDAE184}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{5C16E624-A8A3-59A1-A06A-05171D1A0DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C16E624-A8A3-59A1-A06A-05171D1A0DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C16E624-A8A3-59A1-A06A-05171D1A0DDB}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C16E624-A8A3-59A1-A06A-05171D1A0DDB}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal

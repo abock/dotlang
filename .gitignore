@@ -1,0 +1,4 @@
+obj/
+bin/
+_*/
+.DS_Store

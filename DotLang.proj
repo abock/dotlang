@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.Build.Traversal;Xamarin.MSBuild.Sdk">
+  <Import Project="src\Directory.Build.props"/>
+
+  <PropertyGroup>
+    <GenerateSolutionAfterBuild>true</GenerateSolutionAfterBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <SolutionConfiguration Include="Debug"/>
+    <SolutionConfiguration Include="Release"/>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="src\DotLang\DotLang.csproj"/>
+    <ProjectReference Include="src\DotLang.Console\DotLang.Console.csproj"/>
+    <ProjectReference Include="src\DotLang.Tests\DotLang.Tests.csproj"/>
+  </ItemGroup>
+
+  <Target Name="UpdateDocs">
+    <PropertyGroup>
+      <DocfxJson>$([MSBuild]::NormalizePath('docfx\docfx.json'))</DocfxJson>
+    </PropertyGroup>
+    <RemoveDir Directories="docs"/>
+    <Exec Command="docfx &quot;$(DocfxJson)&quot;"/>
+    <Exec Command="docfx build -s &quot;$(DocfxJson)&quot;"/>
+  </Target>
+
+  <Target Name="ShowVersion" AfterTargets="Build;Pack" DependsOnTargets="SetVersions">
+    <Message Text="Project: $(MSBuildProjectFullPath)" Importance="high"/>
+    <Message Text="Version: $(Version)" Importance="high"/>
+    <Message Text="PackageVersion: $(PackageVersion)" Importance="high"/>
+  </Target>
+
+  <Target Name="DeepClean" AfterTargets="Clean">
+    <RemoveDir Directories="_artifacts;obj"/>
+    <RemoveDir Directories="@(ProjectReference -> '%(RelativeDir)\obj')"/>
+    <RemoveDir Directories="@(ProjectReference -> '%(RelativeDir)\bin')"/>
+  </Target>
+
+  <Import Project="src\Version.targets"/>
+</Project>

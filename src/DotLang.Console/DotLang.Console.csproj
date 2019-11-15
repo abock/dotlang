@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DotLang\DotLang.csproj" />
+  </ItemGroup>
+  <Target Name="UpdateAstGraph" AfterTargets="Build">
+    <PropertyGroup>
+      <DocFxPath>$([MSBuild]::NormalizePath($(MSBuildThisFileDirectory), '..', '..', 'docfx'))</DocFxPath>
+      <AstDotFile>$([MSBuild]::NormalizePath($(DocFxPath), 'graphs', 'ast.gv'))</AstDotFile>
+      <AstSvgFile>$([MSBuild]::NormalizePath($(DocFxPath), 'images', 'ast.svg'))</AstSvgFile>
+    </PropertyGroup>
+    <Exec Command="dotnet exec &quot;$(TargetPath)&quot; -ast &quot;$(AstDotFile)&quot;"/>
+    <Exec Command="dot -Tsvg &quot;$(AstDotFile)&quot; -o &quot;$(AstSvgFile)&quot;"/>
+  </Target>
+</Project>
