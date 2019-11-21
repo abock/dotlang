@@ -1,0 +1,600 @@
+{
+  "homepages": [],
+  "source_base_path": "/Users/aaron/src/DotLangSharp/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.AttributeKeyword.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.AttributeKeyword.html",
+          "hash": "y9CsIf6VXZJORmXhdAJJoA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.AttributeListSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.AttributeListSyntax.html",
+          "hash": "lAl5X83F00Gqi4qjVXQz5g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.AttributeStatementSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.AttributeStatementSyntax.html",
+          "hash": "dYdwxmZ/Gq9XAUxIU0zRZA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.AttributeSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.AttributeSyntax.html",
+          "hash": "PKfpHqVXH+8JhYmNmn16fA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.DigraphSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.DigraphSyntax.html",
+          "hash": "H4q7Z7WKBnS34EFcrvvTtw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.EdgeKind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.EdgeKind.html",
+          "hash": "BSMAfOVRv/2N6mOmTVYjzQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.EdgeStatementSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.EdgeStatementSyntax.html",
+          "hash": "/xreBWlSg6CIREnEhJ0nBg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.EmptyStatementSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.EmptyStatementSyntax.html",
+          "hash": "EbGt2Q4HdlahvGSwBhU1fw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.FormattedSyntaxTextWriterSettings.Defaults.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.FormattedSyntaxTextWriterSettings.Defaults.html",
+          "hash": "9Zsn/lIc6or9jGM5FM9E1A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.FormattedSyntaxTextWriterSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.FormattedSyntaxTextWriterSettings.html",
+          "hash": "kqG7yDAk+JjTl93RK0ftdQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.FormattedSyntaxWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.FormattedSyntaxWriter.html",
+          "hash": "zNRFOxAdI/Y1pPI3WIAXWQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.GraphSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.GraphSyntax.html",
+          "hash": "LPg3HXMfgM9pKcaiz7OCnQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.IEdgeVertexStatementSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.IEdgeVertexStatementSyntax.html",
+          "hash": "tlaNPSaKIYAc2z/7gqXa+A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.INameValueSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.INameValueSyntax.html",
+          "hash": "/dD4MWgxfFSUzk1u8+ihRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.Lexer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.Lexer.html",
+          "hash": "aQGGJ+10QlV/2XdTK47fQA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.NameValueStatementSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.NameValueStatementSyntax.html",
+          "hash": "FOmwWpxFNsL91PflKvTfSg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.NodeIdentifierSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.NodeIdentifierSyntax.html",
+          "hash": "qvrYN5EjQOc5Or6yC7TxPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.NodeStatementSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.NodeStatementSyntax.html",
+          "hash": "2MS3f91sc5F1Qg1yH6aj5g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.ParsedSyntaxWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.ParsedSyntaxWriter.html",
+          "hash": "v8plZNTv/FQYSwq/HJJfyA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.Parser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.Parser.html",
+          "hash": "61P8p0bMZrp84087tvWidQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.PortSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.PortSyntax.html",
+          "hash": "3Yoh7qVigWcwZGaITe9MDw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.PreprocessorDirectiveSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.PreprocessorDirectiveSyntax.html",
+          "hash": "F++i+y2haCrTLjsfdne2zw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.StatementSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.StatementSyntax.html",
+          "hash": "gsQ3XQ2ne2BFfo35JmwuuA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.SubgraphStatementSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.SubgraphStatementSyntax.html",
+          "hash": "lbeUgGw+ZhABgefjA90YQw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.SyntaxFacts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.SyntaxFacts.html",
+          "hash": "NXPeXFAabUnV9Yw1zSTudQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.SyntaxKind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.SyntaxKind.html",
+          "hash": "A1UvuCS77qr8KBYr3OaS6w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.SyntaxNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.SyntaxNode.html",
+          "hash": "+AAe2kTEWz7sTGQQJsdN0A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.SyntaxNodeDumper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.SyntaxNodeDumper.html",
+          "hash": "7//1Cp8pSKVOeoMNv7XdHA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.SyntaxToken.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.SyntaxToken.html",
+          "hash": "1h66js62wSvKdxfMhA+qDg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.SyntaxTree.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.SyntaxTree.html",
+          "hash": "9azFDSvA57TSrofS218cdA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.SyntaxVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.SyntaxVisitor.html",
+          "hash": "PVQUiNRC81QpaPlCYBCIww=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.ToplevelGraphSyntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.ToplevelGraphSyntax.html",
+          "hash": "TcscpybgoebLnSBeFcDqIw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.VisitKind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.VisitKind.html",
+          "hash": "LvpGcJnSAkd4PWVZ49p2tw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Syntax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Syntax.html",
+          "hash": "BthkDXsktEeA+HBmfFqNWg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Text.LinePosition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Text.LinePosition.html",
+          "hash": "8+EZmifrYqklwTLQ0ZfX/A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Text.LinePositionSpan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Text.LinePositionSpan.html",
+          "hash": "rqa7KgicRiFxvByaA5sKKQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Text.SourceLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Text.SourceLocation.html",
+          "hash": "inRzUIvTmqtF4k/j8fMCNQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Text.SourceText.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Text.SourceText.html",
+          "hash": "XAxP7vkmeLPD9Ssh7awIjQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Text.TextSpan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Text.TextSpan.html",
+          "hash": "alxmgfAIC4jj+d39cnLMHw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DotLang.CodeAnalysis.Text.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DotLang.CodeAnalysis.Text.html",
+          "hash": "d3sRpxgukQq4pXTHEayQ7A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "3LN/a/J6LzX1pASLvxAnTg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "TUVsstpkxgoC2Ge+6vjC2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/ast.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/ast.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "kLFAh1jLkrceAwQDQteOmA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "bW1a1uMh8vMR2ffROAiacQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 2
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 40,
+          "skipped_file_count": 40
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
