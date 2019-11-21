@@ -75,7 +75,7 @@ namespace DotLang
                     .Select(type => new NodeStatementSyntax(
                         type.Name,
                         ("target", "_parent"),
-                        ("href", $"/api/{type.FullName}.html"))))
+                        ("href", $"/dotlang/api/{type.FullName}.html"))))
                 .Concat(types
                     .Where(type => type.BaseType != typeof(object))
                     .Select(type => new EdgeStatementSyntax(

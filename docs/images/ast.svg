@@ -11,7 +11,7 @@
 <!-- SyntaxNode -->
 <g id="node1" class="node">
 <title>SyntaxNode</title>
-<g id="a_node1"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.SyntaxNode.html" xlink:title="\N" target="_parent">
+<g id="a_node1"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.SyntaxNode.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="463.24,-275.5 463.24,-311.5 555.51,-311.5 555.51,-275.5 463.24,-275.5"/>
 <text text-anchor="middle" x="509.38" y="-289.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">SyntaxNode</text>
 </a>
@@ -20,7 +20,7 @@
 <!-- AttributeListSyntax -->
 <g id="node2" class="node">
 <title>AttributeListSyntax</title>
-<g id="a_node2"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.AttributeListSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node2"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.AttributeListSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="262.63,-495.5 262.63,-531.5 395.35,-531.5 395.35,-495.5 262.63,-495.5"/>
 <text text-anchor="middle" x="328.99" y="-509.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">AttributeListSyntax</text>
 </a>
@@ -35,7 +35,7 @@
 <!-- AttributeSyntax -->
 <g id="node3" class="node">
 <title>AttributeSyntax</title>
-<g id="a_node3"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.AttributeSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node3"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.AttributeSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="273.52,-440.5 273.52,-476.5 384.46,-476.5 384.46,-440.5 273.52,-440.5"/>
 <text text-anchor="middle" x="328.99" y="-454.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">AttributeSyntax</text>
 </a>
@@ -50,7 +50,7 @@
 <!-- NodeIdentifierSyntax -->
 <g id="node4" class="node">
 <title>NodeIdentifierSyntax</title>
-<g id="a_node4"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.NodeIdentifierSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node4"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.NodeIdentifierSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="256,-385.5 256,-421.5 401.97,-421.5 401.97,-385.5 256,-385.5"/>
 <text text-anchor="middle" x="328.99" y="-399.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">NodeIdentifierSyntax</text>
 </a>
@@ -65,7 +65,7 @@
 <!-- PortSyntax -->
 <g id="node5" class="node">
 <title>PortSyntax</title>
-<g id="a_node5"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.PortSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node5"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.PortSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="286.75,-330.5 286.75,-366.5 371.23,-366.5 371.23,-330.5 286.75,-330.5"/>
 <text text-anchor="middle" x="328.99" y="-344.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">PortSyntax</text>
 </a>
@@ -80,7 +80,7 @@
 <!-- PreprocessorDirectiveSyntax -->
 <g id="node6" class="node">
 <title>PreprocessorDirectiveSyntax</title>
-<g id="a_node6"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.PreprocessorDirectiveSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node6"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.PreprocessorDirectiveSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="230.73,-275.5 230.73,-311.5 427.24,-311.5 427.24,-275.5 230.73,-275.5"/>
 <text text-anchor="middle" x="328.99" y="-289.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">PreprocessorDirectiveSyntax</text>
 </a>
@@ -95,7 +95,7 @@
 <!-- StatementSyntax -->
 <g id="node7" class="node">
 <title>StatementSyntax</title>
-<g id="a_node7"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.StatementSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node7"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.StatementSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="267.68,-220.5 267.68,-256.5 390.29,-256.5 390.29,-220.5 267.68,-220.5"/>
 <text text-anchor="middle" x="328.99" y="-234.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">StatementSyntax</text>
 </a>
@@ -110,7 +110,7 @@
 <!-- SyntaxToken -->
 <g id="node8" class="node">
 <title>SyntaxToken</title>
-<g id="a_node8"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.SyntaxToken.html" xlink:title="\N" target="_parent">
+<g id="a_node8"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.SyntaxToken.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="280.91,-165.5 280.91,-201.5 377.07,-201.5 377.07,-165.5 280.91,-165.5"/>
 <text text-anchor="middle" x="328.99" y="-179.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">SyntaxToken</text>
 </a>
@@ -125,7 +125,7 @@
 <!-- SyntaxTree -->
 <g id="node9" class="node">
 <title>SyntaxTree</title>
-<g id="a_node9"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.SyntaxTree.html" xlink:title="\N" target="_parent">
+<g id="a_node9"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.SyntaxTree.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="285.45,-110.5 285.45,-146.5 372.52,-146.5 372.52,-110.5 285.45,-110.5"/>
 <text text-anchor="middle" x="328.99" y="-124.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">SyntaxTree</text>
 </a>
@@ -140,7 +140,7 @@
 <!-- ToplevelGraphSyntax -->
 <g id="node10" class="node">
 <title>ToplevelGraphSyntax</title>
-<g id="a_node10"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.ToplevelGraphSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node10"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.ToplevelGraphSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="254.45,-55.5 254.45,-91.5 403.52,-91.5 403.52,-55.5 254.45,-55.5"/>
 <text text-anchor="middle" x="328.99" y="-69.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">ToplevelGraphSyntax</text>
 </a>
@@ -155,7 +155,7 @@
 <!-- AttributeStatementSyntax -->
 <g id="node11" class="node">
 <title>AttributeStatementSyntax</title>
-<g id="a_node11"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.AttributeStatementSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node11"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.AttributeStatementSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="9.99,-385.5 9.99,-421.5 184.74,-421.5 184.74,-385.5 9.99,-385.5"/>
 <text text-anchor="middle" x="97.37" y="-399.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">AttributeStatementSyntax</text>
 </a>
@@ -170,7 +170,7 @@
 <!-- EdgeStatementSyntax -->
 <g id="node12" class="node">
 <title>EdgeStatementSyntax</title>
-<g id="a_node12"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.EdgeStatementSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node12"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.EdgeStatementSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="19.71,-330.5 19.71,-366.5 175.02,-366.5 175.02,-330.5 19.71,-330.5"/>
 <text text-anchor="middle" x="97.37" y="-344.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">EdgeStatementSyntax</text>
 </a>
@@ -185,7 +185,7 @@
 <!-- EmptyStatementSyntax -->
 <g id="node13" class="node">
 <title>EmptyStatementSyntax</title>
-<g id="a_node13"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.EmptyStatementSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node13"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.EmptyStatementSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="16.22,-275.5 16.22,-311.5 178.51,-311.5 178.51,-275.5 16.22,-275.5"/>
 <text text-anchor="middle" x="97.37" y="-289.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">EmptyStatementSyntax</text>
 </a>
@@ -200,7 +200,7 @@
 <!-- NameValueStatementSyntax -->
 <g id="node14" class="node">
 <title>NameValueStatementSyntax</title>
-<g id="a_node14"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.NameValueStatementSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node14"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.NameValueStatementSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="0,-220.5 0,-256.5 194.73,-256.5 194.73,-220.5 0,-220.5"/>
 <text text-anchor="middle" x="97.37" y="-234.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">NameValueStatementSyntax</text>
 </a>
@@ -215,7 +215,7 @@
 <!-- NodeStatementSyntax -->
 <g id="node15" class="node">
 <title>NodeStatementSyntax</title>
-<g id="a_node15"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.NodeStatementSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node15"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.NodeStatementSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="19.33,-165.5 19.33,-201.5 175.41,-201.5 175.41,-165.5 19.33,-165.5"/>
 <text text-anchor="middle" x="97.37" y="-179.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">NodeStatementSyntax</text>
 </a>
@@ -230,7 +230,7 @@
 <!-- SubgraphStatementSyntax -->
 <g id="node16" class="node">
 <title>SubgraphStatementSyntax</title>
-<g id="a_node16"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.SubgraphStatementSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node16"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.SubgraphStatementSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="5.7,-110.5 5.7,-146.5 189.03,-146.5 189.03,-110.5 5.7,-110.5"/>
 <text text-anchor="middle" x="97.37" y="-124.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">SubgraphStatementSyntax</text>
 </a>
@@ -245,7 +245,7 @@
 <!-- DigraphSyntax -->
 <g id="node17" class="node">
 <title>DigraphSyntax</title>
-<g id="a_node17"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.DigraphSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node17"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.DigraphSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="43.45,-55.5 43.45,-91.5 151.28,-91.5 151.28,-55.5 43.45,-55.5"/>
 <text text-anchor="middle" x="97.37" y="-69.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">DigraphSyntax</text>
 </a>
@@ -260,7 +260,7 @@
 <!-- GraphSyntax -->
 <g id="node18" class="node">
 <title>GraphSyntax</title>
-<g id="a_node18"><a xlink:href="/api/DotLang.CodeAnalysis.Syntax.GraphSyntax.html" xlink:title="\N" target="_parent">
+<g id="a_node18"><a xlink:href="/dotlang/api/DotLang.CodeAnalysis.Syntax.GraphSyntax.html" xlink:title="\N" target="_parent">
 <polygon fill="none" stroke="#102538" points="48.51,-0.5 48.51,-36.5 146.22,-36.5 146.22,-0.5 48.51,-0.5"/>
 <text text-anchor="middle" x="97.37" y="-14.3" font-family="sans-serif" font-size="14.00" fill="#337ab7">GraphSyntax</text>
 </a>
