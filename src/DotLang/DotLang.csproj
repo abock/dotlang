@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Description>DotLang provides a full fidelity lexer, recursive descent parser, and abstract syntax tree for the Graphviz DOT Language.</Description>
+    <Description>DotLang provides a full fidelity lexer, recursive descent parser, and abstract syntax tree for the Graphviz DOT Language. Use it to parse graphs described in the DOT Language or build graphs using the API and serialize to the DOT Language.</Description>
   </PropertyGroup>
 </Project>
