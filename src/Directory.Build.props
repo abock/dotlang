@@ -17,6 +17,7 @@
     <PackageProjectUrl>https://abock.github.io/dotlang</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageOutputPath>$([MSBuild]::NormalizePath($(MSBuildThisFileDirectory)..\_artifacts\))</PackageOutputPath>
+    <PackageTags>graphviz;graph;graphs;dot;parser;lexer</PackageTags>
     <IncludeSymbols>true</IncludeSymbols>
   </PropertyGroup>
 
