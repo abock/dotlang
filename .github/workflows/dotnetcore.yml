@@ -47,5 +47,5 @@ jobs:
     - name: Push
       run: |
         for pkg in _artifacts/*.nupkg; do
-          dotnet nuget push --api-key ${{secrets.NUGET_PUSH_TOKEN}} --source https://api.nuget.org/v3/index.json --skip-duplicate --no-symbols true "${pkg}";
+          dotnet nuget push --api-key "${{secrets.NUGET_PUSH_TOKEN}}" --source https://api.nuget.org/v3/index.json --skip-duplicate --no-symbols true "${pkg}";
         done
