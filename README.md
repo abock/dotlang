@@ -1,5 +1,9 @@
 # DotLang: DOT Language Library for  .NET
 
+[![.NET Core](https://github.com/abock/dotlang/workflows/.NET%20Core/badge.svg)](https://github.com/abock/dotlang/actions?query=workflow%3A%22.NET+Core%22)
+[![NuGet Badge](https://buildstats.info/nuget/Graphviz.DotLanguage)](https://www.nuget.org/packages/Graphviz.DotLanguage/)
+[![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)](LICENSE)
+
 DotLang provides a full fidelity lexer, recursive descent parser, and
 abstract syntax tree for the [Graphviz][graphviz] [DOT Language][dot-lang],
 written in modern C# 8.0. It is available as a `netstandard2.0` library.
